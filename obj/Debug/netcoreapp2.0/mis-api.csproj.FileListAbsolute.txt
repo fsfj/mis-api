@@ -1,0 +1,10 @@
+/home/ff/Desktop/dev/mis-api/bin/Debug/netcoreapp2.0/mis-api.deps.json
+/home/ff/Desktop/dev/mis-api/bin/Debug/netcoreapp2.0/mis-api.runtimeconfig.json
+/home/ff/Desktop/dev/mis-api/bin/Debug/netcoreapp2.0/mis-api.runtimeconfig.dev.json
+/home/ff/Desktop/dev/mis-api/bin/Debug/netcoreapp2.0/mis-api.dll
+/home/ff/Desktop/dev/mis-api/bin/Debug/netcoreapp2.0/mis-api.pdb
+/home/ff/Desktop/dev/mis-api/obj/Debug/netcoreapp2.0/mis-api.csproj.CoreCompileInputs.cache
+/home/ff/Desktop/dev/mis-api/obj/Debug/netcoreapp2.0/mis-api.AssemblyInfoInputs.cache
+/home/ff/Desktop/dev/mis-api/obj/Debug/netcoreapp2.0/mis-api.AssemblyInfo.cs
+/home/ff/Desktop/dev/mis-api/obj/Debug/netcoreapp2.0/mis-api.dll
+/home/ff/Desktop/dev/mis-api/obj/Debug/netcoreapp2.0/mis-api.pdb
