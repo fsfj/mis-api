@@ -7,7 +7,6 @@ RUN dotnet restore
 
 # copy and build everything else
 COPY . ./
-ENV ASPNETCORE_URLS "http://+:5000"
 RUN dotnet publish -c Release -o out
 ENTRYPOINT ["dotnet", "out/mis-api.dll"]
 
